@@ -1,0 +1,18 @@
+body {
+    background-color: #fefefe;
+}
+main {
+    display: grid;
+    height: 98vh;
+    place-items: center;
+}
+.map-card {
+    background-color: #fff;
+    text-align: center;
+    border-radius: 10px;
+    box-sizing: border-box;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, .4), -5px -5px 15px rgba(255, 255, 255, .4);
+    padding: 20px;
+    width: 100vh;
+    height: 50vh;
+}
